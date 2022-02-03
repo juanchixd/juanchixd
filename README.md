@@ -24,7 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanchixd&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm a Night  🦉** 
 
 📅 **I'm Most Productive on Sunday** 
 
