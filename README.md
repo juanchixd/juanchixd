@@ -12,7 +12,6 @@
 - 🤔 I use daily ```.c```,``` .py```
 - 🌱 I’m currently learning docker and kubernetes
 - 💬 Talk to me about python and music
-- 😄 Pronouns: He/Him
 - 👯 We can connect on [Chess.com]♟ to play some games or tetris [tetr.io]
 
 <p align="center">
