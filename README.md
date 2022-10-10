@@ -13,7 +13,7 @@
 - 🌱 Currently I'm also learning javascript, perfecting myself in python, some AI, docker and kubernetes.
 - 💬 Talk to me about python and music
 - 👯 We can connect on [Chess.com]♟ to play some games or tetris [tetr.io]
-- 📖 My website is <a href="https://juangonzalez.com.ar" target="blank">juangonzalez.com.ar</a
+- 📖 My website is <a href="https://juangonzalez.com.ar" target="blank">juangonzalez.com.ar</a>
 
 <p align="center">
 </p>
