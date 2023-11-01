@@ -13,7 +13,7 @@
 - 🏦 I am currently a student of electronic engineering. Lover of programming and learning 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.c```,``` .py``` and ``` .js```
-- 🌱 Currently I'm also learning javascript, perfecting myself in python, some AI, docker and kubernetes.
+- 🌱 Currently I'm also learning javascript, docker and sql, perfecting myself in python.
 - 💬 Talk to me about python and music
 - 👯 We can connect on [Chess.com]♟ to play some games or tetris [tetr.io]
 - 📖 My website is <a href="https://juangonzalez.com.ar" target="blank">juangonzalez.com.ar</a>
