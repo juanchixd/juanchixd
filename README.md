@@ -17,7 +17,7 @@
 - 💬 Talk to me about python and music
 - 👯 We can connect on [Chess.com]♟ to play some games or tetris [tetr.io]
 - 📖 My website is <a href="https://juangonzalez.com.ar" target="blank">juangonzalez.com.ar</a>
-- 📫 Reach me at: **contacto@juangonzalez.com** or **juanchibgonzalez@gmail.com**
+- 📫 Reach me at: **contacto@juangonzalez.com.ar** or **juanchibgonzalez@gmail.com**
 
 ---
 ### 🐱My Github stats:
